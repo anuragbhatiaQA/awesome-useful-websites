@@ -106,7 +106,6 @@ Each website is included only once. Some websites can fall into multiple categor
   - [Academia](#academia)
     - [Studying](#studying)
     - [Calculators](#calculators)
-    - [AgeCalculator.live](https://agecalculator.live/) - Free multilingual calculator suite for exact age, birthday countdowns, and date differences.
     - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
   - [Science](#science)
     - [Biographies](#biographies)
